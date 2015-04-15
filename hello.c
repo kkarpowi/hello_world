@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* My first app ;) */
+
 int
 main(int argc, char *argv[])
 {
